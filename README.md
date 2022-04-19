@@ -15,8 +15,10 @@ The application is deployed at - https://weather-app-vs.herokuapp.com/
 
 How to run it on your machine:
 ```
-1. Clone the repository
-2. Run 'npm install' (on the console)
-3. Run 'node src/app.js' (on the console)
-4. Visit 'localhost:3000' on the browser to check the application
+1. git clone https://github.com/vivekshahcodes/weather-app.git
+2. cd weather-app
+3. npm install
+4. node src/app.js
 ```
+
+Check out the application at localhost:3000 on your browser.
