@@ -11,7 +11,7 @@ The forward geocoding feature converts the location text into geographic coordin
 The weatherstack API provides us with the real-time as well as the historical world weather data. Making a get request, with the geographic coordinates obtained from the Mapbox
 Geocoding API passed as a query, the real-time weather forecast was obtained.
 
-The application is deployed at - https://weather-app-vs.herokuapp.com/
+The application is deployed at - https://weatherappvs.herokuapp.com/
 
 How to run it on your machine:
 ```
